@@ -1,4 +1,6 @@
 # TechExam
+
+To run: download, put in Intelij, and run anyone, except number 8 (open direct in browser)
 Task 1 - Automated web testing 
 With a test automation framework of selenium with java, test Wikipedia's search feature by searching for "Voyager 1" and add assertions for the same.
 
